@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @varun0chugh
-- 👀 I’m interested in web dev
+- 👀 I’m interested in web dev and python dev
 - 🌱 I’m currently learning backend py frameworks
 - 💞️ I’m looking to collaborate on full stack projects
 - 📫 How to reach me varun20036again@gmail.com
