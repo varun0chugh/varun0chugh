@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @varun0chugh
-- 👀 I’m interested in web dev and python dev
-- 🌱 I’m currently learning backend py frameworks
-- 💞️ I’m looking to collaborate on React projects
+- 👀 I’m interested in python dev
+- 🌱 I’m currently learning Complex System designs 
+- 💞️ I’m looking to collaborate on WAF testing/dev on Public/private clouds
 - 📫 How to reach me varun20036again@gmail.com
 
 <!---
